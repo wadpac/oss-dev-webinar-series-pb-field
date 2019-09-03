@@ -2,12 +2,12 @@
 
 Agenda and Notes for Webinar Series for OSS developers in physical behavior research field
 
-Next meeting:
+## Next webinar:
 
 To be confirmed
 
 
-Past meetings:
+## Past meetings:
 
 | Date | Topics discussed | 
 | ---- | :--------------- |
