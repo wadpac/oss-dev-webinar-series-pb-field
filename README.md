@@ -11,4 +11,4 @@ To be confirmed
 
 | Date | Topics discussed | 
 | ---- | :--------------- |
-| 3 September 2019 | Webinar series itself; Presentation by Vincent [slides](slides/slides_OSSdevelopers_webinar_3September2019.pdf) |
+| 3 September 2019 | Webinar series itself; Presentation by Vincent ([slides](slides/slides_OSSdevelopers_webinar_3September2019.pdf)) |
