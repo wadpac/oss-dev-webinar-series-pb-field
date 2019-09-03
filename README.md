@@ -11,4 +11,4 @@ To be confirmed
 
 | Date | Topics discussed | 
 | ---- | :--------------- |
-| 3 September 2019 | Why a webinar series, Generic csv read functionality for accelerometer |
+| 3 September 2019 | Motivation and expectation for this webinar series; Presentation by Vincent on generic csv read functionality for accelerometer data |
