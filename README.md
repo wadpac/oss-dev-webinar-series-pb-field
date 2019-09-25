@@ -15,7 +15,7 @@ The webinar series aims to:
 
 | Date | Draft Agenda | 
 | ---- | :--------------- |
-| 7 October CEST 2019 |  Intro / Update (Hyatt, Rosemary, Paul) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Discussion: [Version Control & GitHub](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/3) |
+| 7 October CEST 2019 |  Intro / Update (Hyatt, Rosemary, Paul) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Discussion: [Version Control & GitHub](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/3) by Paul/Tom |
 | 5 November CEST 2019 |  Intro / Update (Marta, Jasper, Kelly) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Presentation: R package [runstats](https://cran.r-project.org/web/packages/runstats/index.html) by Marta, see also [issue #4](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/4) |
 | 4 December CEST 2019 |  Intro / Update (Jairo, Charles, Evan) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Presentation/Discussion: Spatial data by Tom |
 
