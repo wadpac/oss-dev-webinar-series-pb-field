@@ -23,7 +23,7 @@ The webinar series aims to:
 
 | Date | Agenda | 
 | ---- | :--------------- |
-| 3 September 2019 | Intro / Update (Tom, Vincent, Ruben)  <br/> Webinar series itself <br/> Presentation on generic function for reading range of csv file structures by Vincent ([slides](slides/slides_OSSdevelopers_webinar_3September2019.pdf)) |
+| 3 September CEST 2019 | Intro / Update (Tom, Vincent, Ruben)  <br/> Webinar series itself <br/> Presentation on generic function for reading range of csv file structures by Vincent ([slides](slides/slides_OSSdevelopers_webinar_3September2019.pdf)) |
 
 ### How to contribute?
 - To suggest new agenda items please create an issue in this repository.
