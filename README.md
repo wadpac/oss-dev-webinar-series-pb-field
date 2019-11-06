@@ -15,7 +15,7 @@ The webinar series aims to:
 
 | Date | Draft Agenda | 
 | ---- | :--------------- |
-| 4 December CEST 2019 |  Intro / Update (Jairo, Charles, Evan) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Presentation/Discussion: **Spatial data** by Tom |
+| 4 December CEST 2019 |  Intro / Update (Jairo, Charles, Evan) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Presentation/Discussion: **Spatial data** by Tom, see also [issue #9](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/9) |
 
 ### Past meetings:
 
@@ -27,7 +27,7 @@ The webinar series aims to:
 
 ### How to contribute?
 - To suggest new agenda items please create an issue in this repository.
-- To join our webinar series then contact us by creating an issue.
+- To join our webinar series contact us by creating an issue.
 
 ### Rules of conduct:
 - If you do not make your (main) code Open Source, then we would rather not have you in this group.
