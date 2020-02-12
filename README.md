@@ -15,7 +15,6 @@ The webinar series aims to:
 
 | Date | Draft Agenda | 
 | ---- | :--------------- |
-| 12 February CET 2020 | Software presentation by Hyatt |
 | 11 March CET 2020 | [Walking/steps/gait algorithms](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/7) by Marta and Matt | 
 | 7 April CET 2020 | [Time series segmentation](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10) by Paul and Vincent |
 | 5 May CET 2020 | tbc |
@@ -26,6 +25,7 @@ The webinar series aims to:
 
 | Date | Agenda | 
 | ---- | :--------------- |
+| 12 February CET 2020 | Software presentation by Hyatt - Padaco ([slides](slides/Padaco_a_software_tool_for_exploring_accelerometry_data_and_patterns.pdf)) |
 | 4 December CET 2019 |  Intro / Update (Jairo, Charles, Evan) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Presentation/Discussion: **Spatial data** by Tom, see also [issue #9](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/9) ([slides](slides/webinar_spatial_data.pdf)) |
 | 5 November CET 2019 |  Intro / Update (Marta, Jasper, Kelly) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Presentation: **R package [runstats](https://cran.r-project.org/web/packages/runstats/index.html)** by Marta ([slides](slides/3rd_webinar_OSS_developers_in_PA_runstats_package.pdf)), see also [issue #4](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/4) <br/> Highlights from **[AIW2019](https://www.granadacongresos.com/aiw2019)** by Jairo |
 | 7 October CET 2019 |  Intro / Update (Hyatt, Rosemary, Paul) <br/> Review Open [Issues](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues) <br/> Discussion: **[Version Control & GitHub](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/3)** by Paul/Tom ([slides](slides/OSS_2.pdf))|
