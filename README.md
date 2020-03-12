@@ -15,7 +15,8 @@ The webinar series aims to:
 
 | Date | Draft Agenda | 
 | ---- | :--------------- |
-| 7 April CET 2020 | [Time series segmentation](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10) by Paul and Vincent | 5 May CET 2020 | Javier Baron and ... (feel free to volunteer as second presenter) |
+| 7 April CET 2020 | [Time series segmentation](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10) by Paul and Vincent |
+| 5 May CET 2020 | Javier Baron and ... (feel free to volunteer as second presenter) |
 | 2 June CET 2020 | Discussion/talk around data sharing by John |
 
 
