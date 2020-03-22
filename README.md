@@ -15,9 +15,9 @@ The webinar series aims to:
 
 | Date | Draft Agenda | 
 | ---- | :--------------- |
-| 7 April CET 2020 | [Time series segmentation](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10) by Vincent |
-| 5 May CET 2020 | Javier Baron on his work is RShiny/Tidyverse work <br/> Paul on changepoint detection transition pairing |
-| 2 June CET 2020 | Discussion/talk around data sharing by John |
+| 7 April CET 2020 | **[Time series segmentation](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10)** by Vincent |
+| 5 May CET 2020 | Javier Baron on his work is **RShiny/Tidyverse** work <br/> Paul on **changepoint detection** and **transition pairing** |
+| 2 June CET 2020 | Discussion/talk around **data** sharing by John |
 
 
 ### Past meetings:
