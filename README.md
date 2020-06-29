@@ -15,11 +15,11 @@ The webinar series aims to:
 
 | Date | Draft Agenda | 
 | ---- | :--------------- |
-| August 2020 day tbc | tbc |
-| September 2020 day tbc | tbc |
-| October 2020 day tbc | tbc |
-| November 2020 day tbc | tbc |
-| December 2020 day tbc | tbc |
+| 4 August 2020 day CET | Sharing experiences on **teaching accelerometer data analysis** to others by Rosemary |
+| 2 September 2020 day CET | **NHANES data analysis** by Hyatt |
+| 30 September 2020 day CET | **Data quality assessment with count- and step-based PA metrics** from Actical accelerometers by Chris |
+| 2 November 2020 day CET | tbc |
+| 2 December 2020 day CET | tbc |
 
 
 ### Past meetings:
