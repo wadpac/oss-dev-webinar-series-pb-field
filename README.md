@@ -27,7 +27,7 @@ The webinar series aims to:
 | Date | Agenda | 
 | ---- | :--------------- |
 | 2 June CET 2020 | Discussion/talk around **data** sharing by John |
-| 5 May CET 2020 | Javier Baron on his work is **[RShiny](https://github.com/fjbaron/GGIRvisualizer)/[Tidyverse](https://github.com/fjbaron/accelerator)** work <br/> Paul on **changepoint detection** and **transition pairing** |
+| 5 May CET 2020 | Javier Baron on his **[RShiny](https://github.com/fjbaron/GGIRvisualizer)/[Tidyverse](https://github.com/fjbaron/accelerator)** work <br/> Paul on **changepoint detection** and **transition pairing** |
 | 7 April CET 2020 | **[Time series segmentation](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10)** by Vincent |
 | 11 March CET 2020 | [Walking/steps/gait algorithms](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/7) by Marta and Matt | 
 | 12 February CET 2020 | Software presentation by Hyatt - Padaco ([slides](slides/Padaco_a_software_tool_for_exploring_accelerometry_data_and_patterns.pdf)) |
