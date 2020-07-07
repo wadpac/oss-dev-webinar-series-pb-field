@@ -27,9 +27,9 @@ The webinar series aims to:
 | Date | Agenda | 
 | ---- | :--------------- |
 | 2 June 2020 | **Data sharing: Why is it still so hard?** by John |
-| 5 May 2020 | Javier Baron on his **[RShiny](https://github.com/fjbaron/GGIRvisualizer)/[Tidyverse](https://github.com/fjbaron/accelerator)** work <br/> Paul on **changepoint detection** and **transition pairing** |
+| 5 May 2020 | Javier Baron on his **[RShiny](https://github.com/fjbaron/GGIRvisualizer)/[Tidyverse](https://github.com/fjbaron/accelerator)** work <br/> **Analyzing Transition Data Using the Transition Pairing Method** by Paul |
 | 7 April 2020 | **[Time series segmentation](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10)** by Vincent |
-| 11 March 2020 | **Precise walking strides segmentation from raw accelerometry data: ADEPT method** by Marta and *Gait Analysis with IMU’s* by Matt [Walking/steps/gait algorithms](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/7) | 
+| 11 March 2020 | **Precise walking strides segmentation from raw accelerometry data: ADEPT method** by Marta  <br/> **Gait Analysis with IMU’s** by Matt [Walking/steps/gait algorithms](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/7) | 
 | 12 February 2020 | **Padaco - An open source software tool for exploring accelerometer data** by Hyatt ([slides](slides/Padaco_a_software_tool_for_exploring_accelerometry_data_and_patterns.pdf)) |
 | 4 December 2019 |  **Spatial data in Physical Activity research** by Tom, see also [issue #9](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/9) ([slides](slides/webinar_spatial_data.pdf)) |
 | 5 November 2019 |  **R package [runstats](https://cran.r-project.org/web/packages/runstats/index.html)** by Marta ([slides](slides/3rd_webinar_OSS_developers_in_PA_runstats_package.pdf)), see also [issue #4](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/4) <br/> Highlights from **[AIW2019](https://www.granadacongresos.com/aiw2019)** by Jairo |
