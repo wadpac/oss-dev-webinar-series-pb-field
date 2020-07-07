@@ -23,12 +23,13 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date | Draft Agenda | 
 | ---- | :--------------- |
-| 4 August CET 2020 | **Sharing experiences on teaching accelerometer data analysis** to others by Rosemary Walmsey |
-| 2 September CET 2020 | **NHANES accelerometer data analysis** by Hyatt Moore |
-| 30 September CET 2020 | **Data quality assessment with count- and step-based PA metrics** from Actical accelerometers by Chris Moore |
-| 2 November CET 2020 | tbc |
-| 2 December CET 2020 | tbc |
+| 4 August 2020 | **Sharing experiences on teaching accelerometer data analysis** by Rosemary Walmsey |
+| 2 September 2020 | **NHANES accelerometer data analysis** by Hyatt Moore |
+| 30 September 2020 | **Data quality assessment with count- and step-based PA metrics** from Actical accelerometers by Chris Moore |
+| 2 November 2020 | tbc |
+| 2 December 2020 | tbc |
 
+Note: dates are relative to CET evening. So,in New Zealand it will be the next day.
 
 ### Past meetings:
 
