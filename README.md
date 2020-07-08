@@ -1,4 +1,4 @@
-## Webinar Series for Open Source Software & Algorithm developer's in the physical behaviour research field
+# Webinar Series for Open Source Software & Algorithm developer's in the physical behaviour research field
 
 We are a group of Open Source Software developers in the physical behaviour research field who meet up once per month. 
 We use this repository to collect ideas for webinar topics and to keep a record of past and upcoming meetings.
@@ -16,13 +16,13 @@ We use this repository to collect ideas for webinar topics and to keep a record 
 
 **New participants welcome!**
 
-We currently have a steady group of around 10-15 attendants from across the U.S., Europe and New Zealand.
+We currently have a steady group of around 10-15 participants from across the U.S., Europe and New Zealand.
 If you are also an Open Source Software Developer and would like to join us then please send us an e-mail: vincentvanhees [at] gmail.com or tom.stewart [at] aut.ac.nz.
 
-### Scheduled meetings:
+## Scheduled meetings:
 
-| Date | Draft Agenda | Slides | Issue |
-| ---- | :--------------- | :--------------- | :--------------- | 
+| Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
+| :---- | :----------- | :-----: | :----: | 
 | 4 Aug 2020 | **Sharing experiences on teaching accelerometer data analysis** by Rosemary Walmsey | | [#12](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/12)|
 | 2 Sep 2020 | **NHANES accelerometer data analysis** by Hyatt Moore | | |
 | 30 Sep 2020 | **Data quality assessment with count- and step-based PA metrics** from Actical accelerometers by Chris Moore | | |
@@ -31,10 +31,10 @@ If you are also an Open Source Software Developer and would like to join us then
 
 Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
-### Past meetings:
+## Past meetings:
 
-| Date | Agenda | Slides | Issue |
-| ---- | :--------------- | :-------------| :-------------|
+| Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
+| :---- | :----------- | :-----: | :----: | 
 | 2 Jun 2020 | **Data sharing: Why is it still so hard?** by John Muschelli | | [#5](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/5) |
 | 5 May 2020 | [**RShiny-based GGIRvisualizer**](https://github.com/fjbaron/GGIRvisualizer) **&** [**Tidyverse for accelerometer data**](https://github.com/fjbaron/accelerator) by Javier Baron <br/> **Analyzing Transition Data Using the Transition Pairing Method** by Paul Hibbing | <br/> [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Hibbing_5May_TPM.pptx) | |
 | 7 Apr 2020 | **Time series segmentation** by Vincent van Hees | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/vanHees_TimeSeriesSegmentation_OSSwebinarSeries.pdf) | [#10](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10)|
@@ -45,10 +45,11 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 | 7 Oct 2019 |  **Version Control & GitHub** by Paul Hibbing and Tom Stewart | [link](slides/OSS_2.pdf)| [#3](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/3) |
 | 3 Sep 2019 | **Generic function for reading range of csv file structures** by Vincent van Hees | [link](slides/slides_OSSdevelopers_webinar_3September2019.pdf) | [#1](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/1) |
 
-### How to contribute?
-- To suggest new agenda items please create an issue in this repository.
+## Suggest agenda items?
 
-### Rules of conduct:
+To suggest new agenda items please create an issue in the [issue tracker](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues).
+
+## Rules of conduct:
 - If you do not make your (main) code Open Source, then we would rather not have you in this group.
 - Bad software or algorithms do not exist in this group. Feedback should always be constructive, and nobody should feel afraid to present their work.
 - Everything discussed in this group is not confidential, unless the presenter explicitly asks for confidentiality.
