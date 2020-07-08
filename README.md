@@ -16,7 +16,7 @@ We use this repository to collect ideas for webinar topics and to keep a record 
 **New participants welcome!**
 
 We currently have a steady group of around 10-15 participants from across the U.S., Europe and New Zealand.
-If you are also an Open Source Software Developer and would like to join us then please send us an e-mail: vincentvanhees [at] gmail.com or tom.stewart [at] aut.ac.nz.
+If you are also an Open Source Software Developer and would like to join us then please send us an e-mail: v.vanhees [at] accelting.com or tom.stewart [at] aut.ac.nz.
 
 ## Scheduled meetings:
 
