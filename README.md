@@ -23,7 +23,7 @@ If you are also an Open Source Software Developer and would like to join us then
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
 | 4 Aug 2020 | **Sharing experiences on teaching accelerometer data analysis** by Rosemary Walmsey | | [#12](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/12)|
-| 2 Sep 2020 | **NHANES accelerometer data analysis** by Hyatt Moore | | |
+| 2 Sep 2020 | **NHANES accelerometer data analysis** by Hyatt Moore + special guest Rick Troiano | | |
 | 30 Sep 2020 | **Data quality assessment with count- and step-based PA metrics** by Chris Moore | | |
 | 2 Nov 2020 | tbc | | |
 | 2 Dec 2020 | tbc | | |
