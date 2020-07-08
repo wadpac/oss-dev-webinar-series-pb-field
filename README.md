@@ -29,14 +29,14 @@ If you are also an Open Source Software Developer and would like to join us then
 | 2 November 2020 | tbc | | |
 | 2 December 2020 | tbc | | |
 
-Note: dates are relative to CET evening. So,in New Zealand it will be the next day.
+Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
 ### Past meetings:
 
 | Date | Agenda | Slides | Issue |
 | ---- | :--------------- | :-------------| :-------------|
 | 2 June 2020 | **Data sharing: Why is it still so hard?** by John Muschelli | | [#5](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/5) |
-| 5 May 2020 | Javier Baron on his **[RShiny](https://github.com/fjbaron/GGIRvisualizer)/[Tidyverse](https://github.com/fjbaron/accelerator)** work <br/> **Analyzing Transition Data Using the Transition Pairing Method** by Paul Hibbing | <br/> [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Hibbing_5May_TPM.pptx) | |
+| 5 May 2020 | [**RShiny-based GGIRvisualizer**](https://github.com/fjbaron/GGIRvisualizer) **&** [**Tidyverse for accelerometer data**](https://github.com/fjbaron/accelerator) by Javier Baron <br/> **Analyzing Transition Data Using the Transition Pairing Method** by Paul Hibbing | <br/> [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Hibbing_5May_TPM.pptx) | |
 | 7 April 2020 | **Time series segmentation** by Vincent | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/vanHees_TimeSeriesSegmentation_OSSwebinarSeries.pdf) | [#10](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10)|
 | 11 March 2020 | **Precise walking strides segmentation from raw accelerometry data: [ADEPT](https://cran.r-project.org/web/packages/adept/vignettes/adept-intro.html) method** by Marta  Karas <br/> **[Gait Analysis with IMU’s]()** by Matthew R Patterson | [link](https://docs.google.com/presentation/d/1ThrdQnFIfRH72fkNdpaiBaxdRB2brWvRgE1cT5hlA3A/edit#slide=id.p) <br/> <br/> [link](https://drive.google.com/file/d/1asPFFvcTOHhTZDmeptpuc89m9futueI3/view?usp=sharing) | [#7](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/7) |
 | 12 February 2020 | **Padaco - An open source software tool for exploring accelerometer data** by Hyatt Moore | [link](slides/Padaco_a_software_tool_for_exploring_accelerometry_data_and_patterns.pdf) | |
