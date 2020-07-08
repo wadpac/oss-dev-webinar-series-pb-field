@@ -3,7 +3,6 @@
 We are a group of Open Source Software developers in the physical behaviour research field who meet up once per month. 
 We use this repository to collect ideas for webinar topics and to keep a record of past and upcoming meetings.
 
-
 **The webinar series aims to:**
 
 - Provide a platform for research software/algorithm developers to meet each other.
@@ -16,7 +15,7 @@ We use this repository to collect ideas for webinar topics and to keep a record 
 
 **New participants welcome!**
 
-We currently have a steady group of around 10-15 participants from across the U.S., Europe and New Zealand.
+We currently have a steady group of around 10-15 participants each month from across the U.S., Europe and New Zealand.
 If you are also an Open Source Software Developer and would like to join us then please send us an e-mail: vincentvanhees [at] gmail.com or tom.stewart [at] aut.ac.nz.
 
 ## Scheduled meetings:
@@ -36,7 +35,7 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
 | 2 Jun 2020 | **Data sharing: Why is it still so hard?** by John Muschelli | | [#5](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/5) |
-| 5 May 2020 | [**RShiny-based GGIRvisualizer**](https://github.com/fjbaron/GGIRvisualizer) **&** [**Tidyverse for accelerometer data**](https://github.com/fjbaron/accelerator) by Javier Baron <br/> **Analyzing Transition Data Using the Transition Pairing Method** by Paul Hibbing | <br/> [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Hibbing_5May_TPM.pptx) | |
+| 5 May 2020 | [**RShiny-based GGIRvisualizer**](https://github.com/fjbaron/GGIRvisualizer) **&** [**Tidyverse for accelerometer data**](https://github.com/fjbaron/accelerator) by Javier Baron <br/> **Analyzing Transition Data Using the Transition Pairing Method** by Paul Hibbing | n/a <br/> [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Hibbing_5May_TPM.pptx) | |
 | 7 Apr 2020 | **Time series segmentation** by Vincent van Hees | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/vanHees_TimeSeriesSegmentation_OSSwebinarSeries.pdf) | [#10](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10)|
 | 11 Mar 2020 | **Precise walking strides segmentation from raw accelerometry data: [ADEPT](https://cran.r-project.org/web/packages/adept/vignettes/adept-intro.html) method** by Marta  Karas <br/> **[Gait Analysis with IMU’s]()** by Matthew R Patterson | [link](https://docs.google.com/presentation/d/1ThrdQnFIfRH72fkNdpaiBaxdRB2brWvRgE1cT5hlA3A/edit#slide=id.p) <br/> <br/> [link](https://drive.google.com/file/d/1asPFFvcTOHhTZDmeptpuc89m9futueI3/view?usp=sharing) | [#7](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/7) |
 | 12 Feb 2020 | **Padaco - An open source software tool for exploring accelerometer data** by Hyatt Moore | [link](slides/Padaco_a_software_tool_for_exploring_accelerometry_data_and_patterns.pdf) | |
