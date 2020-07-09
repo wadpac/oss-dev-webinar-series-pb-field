@@ -1,7 +1,7 @@
 # Webinar Series for Open Source Software & Algorithm developer's in the physical behaviour research field
 
 We are a group of Open Source Software developers in the physical behaviour research field who meet up once per month. 
-We use this repository to collect ideas for webinar topics and to keep a record of past and upcoming meetings.
+We use this repository to keep a record of past and upcoming meetings and collect ideas for webinar topics.
 
 **The webinar series aims to:**
 
@@ -9,11 +9,12 @@ We use this repository to collect ideas for webinar topics and to keep a record 
 - Support each other in research software development challenges.
 - Raise awareness and understanding of each other’s work
 - Work towards improved Open Source Software (OSS) re-use, compatibility, and quality in the field.
-- Advocate OSS in the community.
+- Advocate OSS in the physical behaviour research community.
 - Be open to any programming expertise level.
+- Open to any programming languague/technology (R, Python, Matlab, ...)
 - One webinar per month, typically 1 hour, format flexible, e.g. lecture, discussion, tutorial.
 
-**New participants welcome!**
+**New group members welcome!**
 
 We currently have a steady group of around 10-15 participants from across the U.S., Europe and New Zealand.
 If you are also an Open Source Software Developer and would like to join us then please send us an e-mail: v.vanhees [at] accelting.com or tom.stewart [at] aut.ac.nz.
