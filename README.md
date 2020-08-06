@@ -23,11 +23,10 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 4 Aug 2020 | **Sharing experiences on teaching accelerometer data analysis** by Rosemary Walmsey | | [#12](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/12)|
 | 2 Sep 2020 | **NHANES accelerometer data analysis** by Hyatt Moore + special guest Rick Troiano | | |
 | 30 Sep 2020 | **Data quality assessment with count- and step-based PA metrics** by Chris Moore | | |
-| 2 Nov 2020 | tbc | | |
-| 2 Dec 2020 | tbc | | |
+| 2 Nov 2020 | **Non-wear detection with high resolution accelerometer data** by Shaheen Syed | | |
+| 2 Dec 2020 | **Thigh accelerometer data analysis** by Patrick Joseph Crowley| | |
 
 Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
@@ -35,6 +34,7 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
+| 4 Aug 2020 | **Sharing experiences on teaching accelerometer data analysis** by Rosemary Walmsey | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/040820_live_session_notes_Learning_and_teaching_about_data_in_physical_activity.pptx) | [#12](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/12)|
 | 2 Jun 2020 | **Data sharing: Why is it still so hard?** by John Muschelli | [link](https://docs.google.com/presentation/d/136Y-n92XrvciaSRM6Z44uXT6KFDyt_NJlC0GZhngKrI/edit?usp=sharing)| [#5](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/5) |
 | 5 May 2020 | [**RShiny-based GGIRvisualizer**](https://github.com/fjbaron/GGIRvisualizer) **&** [**Tidyverse for accelerometer data**](https://github.com/fjbaron/accelerator) by Javier Baron <br/> **Analyzing Transition Data Using the Transition Pairing Method** by Paul Hibbing | <br/> [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Hibbing_5May_TPM.pptx) | |
 | 7 Apr 2020 | **Time series segmentation** by Vincent van Hees | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/vanHees_TimeSeriesSegmentation_OSSwebinarSeries.pdf) | [#10](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/10)|
