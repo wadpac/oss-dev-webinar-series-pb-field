@@ -23,7 +23,7 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 2 Sep 2020 | **NHANES accelerometer data analysis** by Hyatt Moore + special guest Rick Troiano | | |
+| 2 Sep 2020 | **NHANES accelerometer data analysis** by Hyatt Moore + special guest Rick Troiano | | [#15](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/15) |
 | 30 Sep 2020 | **Data quality assessment with count- and step-based PA metrics** by Chris Moore | | |
 | 2 Nov 2020 | **Non-wear detection with high resolution accelerometer data** by Shaheen Syed | | |
 | 2 Dec 2020 | **Thigh accelerometer data analysis** by Patrick Joseph Crowley| | |
