@@ -23,7 +23,8 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 2 Dec 2020 | **Thigh accelerometer data analysis** by Patrick Joseph Crowley| | |
+| 2 Dec 2020 | Update round by all and drafting agenda for next year | | |
+| ? ??? 2021 | **Thigh accelerometer data analysis** by Patrick Joseph Crowley| | |
 
 Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
