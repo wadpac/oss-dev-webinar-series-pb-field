@@ -23,7 +23,9 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| ? ??? 2021 | **Thigh accelerometer data analysis** by Patrick Joseph Crowley| | |
+| 17 February 2021 | **PyActigraphy** by Grégory Hammad| | |
+| 17 March 2021 | --title to be confirmed-- by John Muschelli | | |
+| 7 April 2021 | **Thigh accelerometer data analysis** by Patrick Joseph Crowley| | |
 
 Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
