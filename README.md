@@ -23,7 +23,7 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 17 Feb 2021 | **PyActigraphy** by Grégory Hammad| | |
+| 17 Feb 2021 | **PyActigraphy** by Grégory Hammad|[link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/20210217_Hammad_pyActigraphy.pdf) | |
 | 17 Mar 2021 | --title to be confirmed-- by John Muschelli + Jaiwei Bai | | |
 | 7 Apr 2021 | **Thigh accelerometer data analysis** by Patrick Joseph Crowley| | |
 
