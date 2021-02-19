@@ -32,7 +32,7 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 17 Feb 2021 | **PyActigraphy** by Grégory Hammad|[link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/20210217_Hammad_pyActigraphy.pdf) | |
+| 17 Feb 2021 | [**PyActigraphy**](https://ghammad.github.io/pyActigraphy/) by Grégory Hammad|[link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/20210217_Hammad_pyActigraphy.pdf) | |
 | 2 Dec 2020 | Update round by all and drafting agenda for next year | | |
 | 2 Nov 2020 | **Non-wear detection with high resolution accelerometer data** by Shaheen Syed |[link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Non-wear%20detection%20with%20high%20resolution%20accelerometer%20data.pdf) | |
 | 30 Sep 2020 | **Data quality assessment with count- and step-based PA metrics** by Chris Moore | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/20200930_MooreC_StepBasedMetrics_OSS_Compressed.pptx) | |
