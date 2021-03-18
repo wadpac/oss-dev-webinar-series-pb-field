@@ -31,7 +31,7 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 17 Mar 2021 | [**SummarizedActigraphy**](https://docs.google.com/presentation/d/12DPZgPteQBwgal6kSPP58zhPhjZ7QSPZLe3NkA8M3eo/edit?usp=sharing) by John Muschelli + Jaiwei Bai | | |
+| 17 Mar 2021 | [**SummarizedActigraphy**](https://github.com/muschellij2/SummarizedActigraphy) by John Muschelli + Jaiwei Bai | [link](https://docs.google.com/presentation/d/12DPZgPteQBwgal6kSPP58zhPhjZ7QSPZLe3NkA8M3eo/edit?usp=sharing) | |
 | 17 Feb 2021 | [**PyActigraphy**](https://ghammad.github.io/pyActigraphy/) by Grégory Hammad|[link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/20210217_Hammad_pyActigraphy.pdf) | |
 | 2 Dec 2020 | Update round by all and drafting agenda for next year | | |
 | 2 Nov 2020 | **Non-wear detection with high resolution accelerometer data** by Shaheen Syed |[link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Non-wear%20detection%20with%20high%20resolution%20accelerometer%20data.pdf) | |
