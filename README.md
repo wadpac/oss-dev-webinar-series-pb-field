@@ -23,7 +23,7 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 7 Apr 2021 | **Gyroscope and accelerometer data fusion for physical behaviour research** by Vincent | | [#11](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/11) |
+| 7 Apr 2021 | **Gyroscope and accelerometer data fusion for physical behaviour research** by Vincent van Hees | | [#11](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/11) |
 | 10 May 2021 | **Fragmentation metrics (exact title tbc)** by Vadim Zipunnikov | | |
 | 14 Jun 2021 | tbc | | |
 | 8 Jul 2021 | tbc | | |
