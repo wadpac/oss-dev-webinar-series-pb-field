@@ -23,7 +23,10 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 7 Apr 2021 | tbc | | |
+| 7 Apr 2021 | Gyroscope and accelerometer data fusion for physical behaviour research | | #11 |
+| 10 May 2021 | Fragmentation by Vadim Zipunnikov | | |
+| 14 Jun 2021 | tbc | | |
+| 8 Jul 2021 | tbc | | |
 
 Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
