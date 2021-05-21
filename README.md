@@ -36,7 +36,7 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 10 May 2021 | **Fragmentation metrics (exact title tbc)** by Vadim Zipunnikov | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Zipunnikov_05_10_2021_workshop_v2-compressed.pdf) | |
+| 10 May 2021 | **Fragmentation : Overview and applications** by Vadim Zipunnikov | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Zipunnikov_05_10_2021_workshop_v2-compressed.pdf) | |
 | 7 Apr 2021 | **Gyroscope and accelerometer data fusion for physical behaviour research** by Vincent van Hees | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Vincent_SensorFusion_gyro_acc.pdf) | [#11](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/11) |
 | 17 Mar 2021 | [**SummarizedActigraphy**](https://github.com/muschellij2/SummarizedActigraphy) by John Muschelli + Jaiwei Bai | [link](https://docs.google.com/presentation/d/12DPZgPteQBwgal6kSPP58zhPhjZ7QSPZLe3NkA8M3eo/edit?usp=sharing) | |
 | 17 Feb 2021 | [**PyActigraphy**](https://ghammad.github.io/pyActigraphy/) by Grégory Hammad|[link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/20210217_Hammad_pyActigraphy.pdf) | |
