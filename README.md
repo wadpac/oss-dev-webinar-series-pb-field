@@ -25,6 +25,10 @@ If you are also an Open Source Software Developer and would like to join us then
 | :---- | :----------- | :-----: | :----: | 
 | 14 Jun 2021 | **Step detection based on wrist-worn accelerometer data** by by Matthew R Patterson | | |
 | 8 Jul 2021 | Meeting to plan hack-a-thon | | |
+| ?? Nov 2021 | Double-talk:<br/> - **The HealthyMoms app: effectiveness to promote healthy weight gain during pregnancy, user experience and engagement** by Pontus Henriksson <br/> - Speaker tbc | | |
+
+
+ 
 
 Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
