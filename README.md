@@ -23,7 +23,7 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 14 Jun 2021 | **Step detection based on wrist-worn accelerometer data** by by Matthew R Patterson |[link](https://docs.google.com/presentation/d/1uEzBXQanZ-VE6gj3cBCtBZcFc14kYtgFd7D2ZmJ9XvU/edit?usp=sharing) | |
+| 14 Jun 2021 | [**Step detection based on wrist-worn accelerometer data**](https://github.com/ShimmerEngineering/Verisense-Toolbox/tree/master/Verisense_step_algorithm) by by Matthew R Patterson |[link](https://docs.google.com/presentation/d/1uEzBXQanZ-VE6gj3cBCtBZcFc14kYtgFd7D2ZmJ9XvU/edit?usp=sharing) | |
 | 8 Jul 2021 | Meeting to plan hack-a-thon | | |
 | ?? Nov 2021 | Double-talk:<br/> - **The HealthyMoms app: effectiveness to promote healthy weight gain during pregnancy, user experience and engagement** by Pontus Henriksson <br/> - Speaker tbc | | |
 
