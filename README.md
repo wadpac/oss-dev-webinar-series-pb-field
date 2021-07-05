@@ -23,11 +23,8 @@ If you are also an Open Source Software Developer and would like to join us then
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
-| 14 Jun 2021 | [**Step detection based on wrist-worn accelerometer data**](https://github.com/ShimmerEngineering/Verisense-Toolbox/tree/master/Verisense_step_algorithm) by by Matthew R Patterson |[link](https://docs.google.com/presentation/d/1uEzBXQanZ-VE6gj3cBCtBZcFc14kYtgFd7D2ZmJ9XvU/edit?usp=sharing) | |
-| 8 Jul 2021 | Meeting to plan hack-a-thon | | |
+| ?? Oct 2021 | Hackathon? To be confirmed | | |
 | ?? Nov 2021 | Double-talk:<br/> - **The HealthyMoms app: effectiveness to promote healthy weight gain during pregnancy, user experience and engagement** by Pontus Henriksson <br/> - Speaker tbc | | |
-
-
  
 
 Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
@@ -36,6 +33,7 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 
 | Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
 | :---- | :----------- | :-----: | :----: | 
+| 14 Jun 2021 | [**Step detection based on wrist-worn accelerometer data**](https://github.com/ShimmerEngineering/Verisense-Toolbox/tree/master/Verisense_step_algorithm) by by Matthew R Patterson |[link](https://docs.google.com/presentation/d/1uEzBXQanZ-VE6gj3cBCtBZcFc14kYtgFd7D2ZmJ9XvU/edit?usp=sharing) | |
 | 10 May 2021 | **Fragmentation : Overview and applications** by Vadim Zipunnikov | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Zipunnikov_05_10_2021_workshop_v2-compressed.pdf) | |
 | 7 Apr 2021 | **Gyroscope and accelerometer data fusion for physical behaviour research** by Vincent van Hees | [link](https://github.com/wadpac/oss-dev-webinar-series-pb-field/blob/master/slides/Vincent_SensorFusion_gyro_acc.pdf) | [#11](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/11) |
 | 17 Mar 2021 | [**SummarizedActigraphy**](https://github.com/muschellij2/SummarizedActigraphy) by John Muschelli + Jaiwei Bai | [link](https://docs.google.com/presentation/d/12DPZgPteQBwgal6kSPP58zhPhjZ7QSPZLe3NkA8M3eo/edit?usp=sharing) | |
