@@ -1,9 +1,11 @@
 # Webinar Series for Open Source Software & Algorithm developer's in the physical behaviour research field
 
-We are a group of Open Source Software developers in the physical behaviour research field who meet up once per month. 
-We use this repository to keep a record of past and upcoming meetings and collect ideas for webinar topics.
+This group does not longer exist.
 
-**The webinar series aims to:**
+We were a group of Open Source Software developers in the physical behaviour research field who meet up once per month. 
+We used this repository to keep a record of past and upcoming meetings and collect ideas for webinar topics.
+
+**The webinar series aimed to:**
 
 - Provide a platform for research software/algorithm developers to meet each other.
 - Support each other in research software development challenges.
@@ -13,21 +15,6 @@ We use this repository to keep a record of past and upcoming meetings and collec
 - Be open to any programming expertise level.
 - Open to any programming languague/technology (R, Python, Matlab, ...)
 - One webinar per month, typically 1 hour, format flexible, e.g. lecture, discussion, tutorial.
-
-**New group members welcome!**
-
-We currently have a steady group of around 10-15 participants from across the U.S., Europe and New Zealand.
-If you are also an Open Source Software Developer and would like to join us then please send us an e-mail: v.vanhees [at] accelting.com or tom.stewart [at] aut.ac.nz.
-
-## Scheduled meetings:
-
-| Date <img width=120/> | Agenda <img width=1020/> | Slides <img width=20/> | Issue <img width=20/>|
-| :---- | :----------- | :-----: | :----: | 
-| ?? Oct 2021 | Hackathon? To be confirmed | | |
-| ?? Nov 2021 | Double-talk:<br/> - **The HealthyMoms app: effectiveness to promote healthy weight gain during pregnancy, user experience and engagement** by Pontus Henriksson <br/> - Speaker tbc | | |
- 
-
-Note: dates are relative to CET evening. So, in New Zealand it will be the next day.
 
 ## Past meetings:
 
@@ -52,10 +39,6 @@ Note: dates are relative to CET evening. So, in New Zealand it will be the next 
 | 5 Nov 2019 |  **R package [runstats](https://cran.r-project.org/web/packages/runstats/index.html)** by Marta Karas <br/> Highlights from **[AIW2019](https://www.granadacongresos.com/aiw2019)** by Jairo Migueles | [link](slides/3rd_webinar_OSS_developers_in_PA_runstats_package.pdf) | [#4](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/4) | |
 | 7 Oct 2019 |  **Version Control & GitHub** by Paul Hibbing and Tom Stewart | [link](slides/OSS_2.pdf)| [#3](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/3) |
 | 3 Sep 2019 | **Generic function for reading range of csv file structures** by Vincent van Hees | [link](slides/slides_OSSdevelopers_webinar_3September2019.pdf) | [#1](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues/1) |
-
-## Suggest agenda items?
-
-To suggest new agenda items please create an issue in the [issue tracker](https://github.com/wadpac/oss-dev-webinar-series-pb-field/issues).
 
 ## Rules of conduct:
 - If you do not make your (main) code Open Source, then we would rather not have you in this group.
