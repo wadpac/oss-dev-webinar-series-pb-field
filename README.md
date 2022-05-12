@@ -1,6 +1,6 @@
 # Webinar Series for Open Source Software & Algorithm developer's in the physical behaviour research field
 
-This group does not longer exist.
+This group does no longer exist.
 
 We were a group of Open Source Software developers in the physical behaviour research field who meet up once per month. 
 We used this repository to keep a record of past and upcoming meetings and collect ideas for webinar topics.
